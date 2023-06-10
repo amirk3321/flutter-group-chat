@@ -12,6 +12,8 @@
 </p>
 <br />
 
+  <img src="https://github.com/amirk3321/flutter-group-chat/assets/10207753/ca02d205-78a5-4ed6-adc0-a9af53609007" height="500" /> 
+ 
  
 ### Screenshots
 
